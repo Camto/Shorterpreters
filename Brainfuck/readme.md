@@ -1,6 +1,6 @@
 # So, you wanna write a Brainf*ck interpreter?
 
-Here is the code that goes with [the video on how to write a Brainfuck interpreter](). The contents are, in order of appearance:
+Here is the code that goes with [the video on how to write a Brainfuck interpreter](https://youtu.be/4uNM73pfJn0). The contents are, in order of appearance:
 - `example.df` the program used to help explain Deadfish
 - `deadfish.py` the Deadfish interpreter in Python
 - `deadfish.cpp` the Deadfish interpreter in C++
